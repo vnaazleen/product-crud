@@ -1,5 +1,7 @@
 # Product CRUD
 CRUD operations using Angular and Spring boot
+* [Frontend](https://github.com/vnaazleen/product-frontend)
+* [Backend](https://github.com/vnaazleen/product-crud/tree/main/spring-backend)
 
 ## Operations
 * View product List, or a specific product
